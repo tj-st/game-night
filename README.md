@@ -23,15 +23,13 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<h3 align="center">Game Night</h3>
+<h1 align="center">Game Night</h3>
   <p align="center">
     A simple web app to organize game nights.
     <br />
     <a href="https://github.com/tj-st/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tj-st/game-night">View Demo</a>
-    ·
     <a href="https://github.com/tj-st/game-night/issues">Report Bug</a>
     ·
     <a href="https://github.com/tj-st/repo_name/issues">Request Feature</a>
