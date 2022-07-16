@@ -68,6 +68,8 @@
 ### Built With
 
 [![Next][Next.js]][Next-url]
+[![Prisma][Prisma]][Prisma-url]
+[![Tailwind][Tailwind]][Tailwind-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -141,3 +143,7 @@ Project Link: [https://github.com/tj-st/game-night](https://github.com/tj-st/gam
 [issues-url]: https://github.com/tj-st/game-night/issues
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
+[Prisma]: https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
+[Prisma-url]: https://www.prisma.io/
+[Tailwind]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
