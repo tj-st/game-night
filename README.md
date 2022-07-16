@@ -110,7 +110,7 @@ Follow these steps to run a dev environment locally.
 
 - [ ] WIP Repo Setup
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/tj-st/game-night/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
