@@ -32,7 +32,7 @@
     <br />
     <a href="https://github.com/tj-st/game-night/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tj-st/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/tj-st/game-night/issues">Request Feature</a>
   </p>
 </div>
 
