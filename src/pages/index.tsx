@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Game Night | ddot.gg</title>
+        <title>Game Night | Plan Your Gaming</title>
         <meta name="description" content="A ddot.gg Hobby Project" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
