@@ -1,8 +1,7 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
 import Layout from '../components/layout';
-import PageHeader from '../components/page-header';
-import { trpc } from '../utils/trpc';
+import PageHeader from '../components/header';
 
 const Home: NextPage = () => {
   return (
