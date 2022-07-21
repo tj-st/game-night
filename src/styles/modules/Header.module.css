@@ -1,7 +1,7 @@
 .header {
-  @apply h-20 bg-orange-400 pl-5 flex items-center;
+  @apply h-20 bg-[#222222] pl-5 flex items-center;
 }
 
 .header h1 {
-  @apply text-center text-5xl drop-shadow-md text-[#222222];
+  @apply text-center text-5xl drop-shadow-md text-[#FFA552];
 }

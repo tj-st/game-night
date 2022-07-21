@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { FaCalendarAlt, FaGamepad, FaShieldAlt } from 'react-icons/fa';
+import { FaCalendarAlt, FaPlusCircle, FaShieldAlt } from 'react-icons/fa';
 
 const Navigation = () => {
   return (
@@ -20,9 +20,9 @@ const Navigation = () => {
           </Link>
         </div>
         <div className="mb-4">
-          <Link href="/">
+          <Link href="/create">
             <a className="hover:drop-shadow-2xl">
-              <FaGamepad size={40} color={'#FFA552'} />
+              <FaPlusCircle size={40} color={'#FFA552'} />
             </a>
           </Link>
         </div>

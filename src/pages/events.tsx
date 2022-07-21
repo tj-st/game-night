@@ -14,7 +14,7 @@ const Events: NextPage = () => {
       </Head>
       <Layout>
         <>
-          <PageHeader title="GN / Events" />
+          <PageHeader title="Events" />
           <div className="px-4">
             <h1 className="text-center py-6 text-[#FFA552] text-5xl drop-shadow-md">Upcoming Events</h1>
             <UpcomingEvent
