@@ -1,0 +1,7 @@
+.header {
+  @apply h-20 bg-orange-400 pl-5 flex items-center;
+}
+
+.header h1 {
+  @apply font-bold text-5xl drop-shadow-md text-[#222222];
+}

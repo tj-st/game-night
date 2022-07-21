@@ -1,4 +1,4 @@
-import Navigation from './navigation';
+import Navigation from './Navigation';
 
 type LayoutProps = {
   children?: JSX.Element;
