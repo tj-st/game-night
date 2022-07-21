@@ -1,4 +1,4 @@
-import styles from '../styles/modules/UpcomingEvent.module.css';
+import styles from '../../styles/modules/UpcomingEvent.module.css';
 
 type UpcomingEventProps = {
   eventTitle: string;
