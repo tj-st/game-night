@@ -32,15 +32,13 @@ const UpcomingEvent = (props: UpcomingEventProps) => {
           </p>
         </div>
       </div>
-      <div>
-        <h1 className={styles.subtitle}>Invited Players</h1>
-        <div className="flex">
-          <div className={styles.playerframe}></div>
-          <div className={styles.playerframe}></div>
-          <div className={styles.playerframe}></div>
-          <div className={styles.playerframe}></div>
-          <div className={styles.playerframe}></div>
-        </div>
+      <h1 className={styles.subtitle}>Invited Players</h1>
+      <div className="flex">
+        <div className={styles.playerframe}></div>
+        <div className={styles.playerframe}></div>
+        <div className={styles.playerframe}></div>
+        <div className={styles.playerframe}></div>
+        <div className={styles.playerframe}></div>
       </div>
     </div>
   );

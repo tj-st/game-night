@@ -3,15 +3,15 @@
 }
 
 .editbutton {
-  @apply p-3 text-2xl text-black rounded-md ml-auto bg-[#FFA552];
+  @apply px-3 py-2 text-xl font-archivo uppercase text-[#222222] rounded-md ml-auto bg-[#FFA552];
 }
 
 .title {
-  @apply font-bold text-5xl mr-6 text-[#88C6B7];
+  @apply max-w-fit font-bold uppercase text-4xl mr-6 text-[#88C6B7];
 }
 
 .container {
-  @apply flex-col rounded-2xl p-4 min-w-fit px-4 bg-[#222222];
+  @apply flex-col rounded-2xl p-4 max-w-fit px-4 bg-[#222222];
 }
 
 .playerframe {

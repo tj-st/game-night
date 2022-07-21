@@ -14,11 +14,9 @@ const Events: NextPage = () => {
       </Head>
       <Layout>
         <>
-          <PageHeader title="Events" />
-          <div className="px-4">
-            <h1 className="text-center py-6 text-[#FFA552] text-5xl drop-shadow-md">Upcoming Events</h1>
+          <div className="p-4 max-w-fit">
             <UpcomingEvent
-              eventTitle="Event Title Placeholder"
+              eventTitle="Example Event Name"
               eventDate="2020-01-01"
               eventGame="CSGO"
               eventPlatform="PC"

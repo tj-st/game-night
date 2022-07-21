@@ -1,0 +1,7 @@
+.container {
+  @apply drop-shadow-xl max-w-2xl m-4 rounded-2xl p-4 px-4 bg-[#222222];
+}
+
+.editbutton {
+  @apply px-3 py-2 text-xl max-w-fit font-archivo text-center uppercase text-[#222222] rounded-md bg-[#FFA552];
+}

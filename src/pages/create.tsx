@@ -2,7 +2,7 @@ import type { NextPage } from 'next';
 import Head from 'next/head';
 import Layout from '../components/Layout';
 import PageHeader from '../components/Header';
-import UpcomingEvent from '../components/events/UpcomingEvent';
+import CreateEvent from '../components/events/CreateEvent';
 
 const Create: NextPage = () => {
   return (
@@ -14,7 +14,7 @@ const Create: NextPage = () => {
       </Head>
       <Layout>
         <>
-          <PageHeader title="Create" />
+          <CreateEvent />
           <div className="px-4"></div>
         </>
       </Layout>
