@@ -13,7 +13,7 @@ const Home: NextPage = () => {
       </Head>
       <Layout>
         <>
-          <PageHeader title="GAME NIGHT" />
+          <PageHeader title="Game Night" />
         </>
       </Layout>
     </>

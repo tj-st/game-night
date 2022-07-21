@@ -3,7 +3,11 @@
 module.exports = {
   content: ['./src/**/*.{js,ts,jsx,tsx}'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        archivo: ['Archivo Black', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 };

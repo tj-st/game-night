@@ -3,5 +3,5 @@
 }
 
 .header h1 {
-  @apply text-center font-bold text-5xl drop-shadow-md text-[#222222];
+  @apply text-center text-5xl drop-shadow-md text-[#222222];
 }

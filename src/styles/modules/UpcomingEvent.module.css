@@ -1,5 +1,5 @@
 .subtitle {
-  @apply text-3xl text-orange-200 pb-2 uppercase font-bold drop-shadow-sm;
+  @apply text-3xl text-orange-200 pb-2 drop-shadow-sm;
 }
 
 .editbutton {
@@ -7,13 +7,13 @@
 }
 
 .title {
-  @apply font-bold text-5xl mr-6 text-[#88C6B7] uppercase;
+  @apply font-bold text-5xl mr-6 text-[#88C6B7];
 }
 
 .container {
-  @apply flex-col rounded-2xl bg-[#222222] p-4 min-w-fit px-4;
+  @apply flex-col rounded-2xl p-4 min-w-fit px-4 bg-[#222222];
 }
 
 .playerframe {
-  @apply aspect-square h-32 w-32 bg-[#323232] mr-4 rounded-lg;
+  @apply aspect-square h-32 w-32 mr-4 rounded-lg bg-[#323232];
 }
