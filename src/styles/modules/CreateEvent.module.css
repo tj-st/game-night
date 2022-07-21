@@ -3,5 +3,5 @@
 }
 
 .editbutton {
-  @apply px-3 py-2 text-xl max-w-fit font-archivo text-center uppercase text-[#222222] rounded-md bg-[#FFA552];
+  @apply px-3 py-2 text-xl max-w-fit font-archivo text-center uppercase text-[#222222] rounded-md bg-[#FFA552] hover:bg-[#ff830f] hover:text-[#141414];
 }
