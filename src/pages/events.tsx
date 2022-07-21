@@ -2,7 +2,7 @@ import type { NextPage } from 'next';
 import Head from 'next/head';
 import Layout from '../components/Layout';
 import PageHeader from '../components/Header';
-import UpcomingEvent from '../components/UpcomingEvent';
+import UpcomingEvent from '../components/events/UpcomingEvent';
 
 const Events: NextPage = () => {
   return (
