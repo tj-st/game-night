@@ -9,7 +9,7 @@ const Layout = ({ children }: LayoutProps) => {
     <>
       <div>
         <Navigation />
-        <main className="pl-16">{children}</main>
+        <main className="pl-14">{children}</main>
       </div>
     </>
   );

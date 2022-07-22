@@ -1,28 +1,29 @@
 import Link from 'next/link';
 import { FaCalendarAlt, FaPlusCircle, FaShieldAlt } from 'react-icons/fa';
+import styles from '../styles/modules/Navigation.module.css';
 
 const Navigation = () => {
   return (
-    <nav className="left-0 top-0 fixed h-full w-16 bg-[#222222] flex">
-      <div className="py-5 mx-auto">
-        <div className="mb-12">
+    <nav className={styles.bar}>
+      <div className={styles.items}>
+        <div>
           <Link href="/">
             <a className="hover:drop-shadow-2xl">
-              <FaShieldAlt size={40} color={'#FFA552'} />
+              <FaShieldAlt size={36} color={'#FFA552'} />
             </a>
           </Link>
         </div>
-        <div className="mb-4">
+        <div>
           <Link href="/events">
             <a className="hover:drop-shadow-2xl">
-              <FaCalendarAlt size={40} color={'#FFA552'} />
+              <FaCalendarAlt size={36} color={'#FFA552'} />
             </a>
           </Link>
         </div>
-        <div className="mb-4">
+        <div>
           <Link href="/create">
             <a className="hover:drop-shadow-2xl">
-              <FaPlusCircle size={40} color={'#FFA552'} />
+              <FaPlusCircle size={36} color={'#FFA552'} />
             </a>
           </Link>
         </div>

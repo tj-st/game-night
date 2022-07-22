@@ -1,5 +1,5 @@
 .header {
-  @apply h-20 bg-[#222222] pl-5 flex items-center;
+  @apply h-20 bg-[#222222] pl-4 flex items-center;
 }
 
 .header h1 {

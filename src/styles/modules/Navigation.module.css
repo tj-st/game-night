@@ -1,0 +1,11 @@
+.bar {
+  @apply flex left-0 top-0 fixed h-full w-14 bg-[#222222];
+}
+
+.items {
+  @apply py-4 mx-auto;
+}
+
+.items div {
+  @apply pb-4;
+}
