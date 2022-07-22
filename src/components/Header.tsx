@@ -1,10 +1,10 @@
 import styles from '../styles/modules/Header.module.css';
 
-type PageHeaderProps = {
+type HeaderProps = {
   title: string;
 };
 
-const PageHeader = (props: PageHeaderProps) => {
+const Header = (props: HeaderProps) => {
   return (
     <div className={styles.header}>
       <h1>{props.title}</h1>
@@ -12,4 +12,4 @@ const PageHeader = (props: PageHeaderProps) => {
   );
 };
 
-export default PageHeader;
+export default Header;
